@@ -1,0 +1,9 @@
+summit_xl/image_viewer/build/
+summit_xl/image_viewer/devel/
+summit_xl/keyboard_controller/build/
+summit_xl/keyboard_controller/devel/
+summit_xl/sim/.catkin_tools/
+summit_xl/sim/build/
+summit_xl/sim/devel/
+summit_xl/sim/logs/
+summit_xl/sim/src/trossen/
