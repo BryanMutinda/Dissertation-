@@ -1,0 +1,33 @@
+[submodule "summit_xl/sim/src/costmap_prohibition_layer"]
+	path = summit_xl/sim/src/costmap_prohibition_layer
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/kinova-ros"]
+	path = summit_xl/sim/src/kinova-ros
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/rcomponent"]
+	path = summit_xl/sim/src/rcomponent
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/robotnik_elevator_interface"]
+	path = summit_xl/sim/src/robotnik_elevator_interface
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/robotnik_gazebo_plugins"]
+	path = summit_xl/sim/src/robotnik_gazebo_plugins
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/robotnik_msgs"]
+	path = summit_xl/sim/src/robotnik_msgs
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/robotnik_pad"]
+	path = summit_xl/sim/src/robotnik_pad
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/robotnik_sensors"]
+	path = summit_xl/sim/src/robotnik_sensors
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/summit_xl_common"]
+	path = summit_xl/sim/src/summit_xl_common
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/summit_xl_sim"]
+	path = summit_xl/sim/src/summit_xl_sim
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
+[submodule "summit_xl/sim/src/teleop_panel"]
+	path = summit_xl/sim/src/teleop_panel
+	url = https://github.com/RobotnikAutomation/summit_xl_sim.git
