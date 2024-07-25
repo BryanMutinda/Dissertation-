@@ -7,3 +7,7 @@ summit_xl/sim/build/
 summit_xl/sim/devel/
 summit_xl/sim/logs/
 summit_xl/sim/src/trossen/
+depth_image_test/build
+depth_image_test/points3D
+depth_image_test/images/dinoSparseRing
+
