@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bryan/dissertation/depth_image_test/src
+CMAKE_SOURCE_DIR = /home/bryan/dissertation/Dissertation-/depth_image_test/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bryan/dissertation/depth_image_test/build
+CMAKE_BINARY_DIR = /home/bryan/dissertation/Dissertation-/depth_image_test/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/bryan/dissertation/depth_image_test/build/CMakeFiles /home/bryan/dissertation/depth_image_test/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/bryan/dissertation/Dissertation-/depth_image_test/build/CMakeFiles /home/bryan/dissertation/Dissertation-/depth_image_test/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/bryan/dissertation/depth_image_test/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/bryan/dissertation/Dissertation-/depth_image_test/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -312,6 +312,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/depth_image.dir/build.make CMakeFiles/depth_image.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+reprojection_error.o: reprojection_error.cpp.o
+
+.PHONY : reprojection_error.o
+
+# target to build an object file
+reprojection_error.cpp.o:
+	$(MAKE) -f CMakeFiles/depth_image.dir/build.make CMakeFiles/depth_image.dir/reprojection_error.cpp.o
+.PHONY : reprojection_error.cpp.o
+
+reprojection_error.i: reprojection_error.cpp.i
+
+.PHONY : reprojection_error.i
+
+# target to preprocess a source file
+reprojection_error.cpp.i:
+	$(MAKE) -f CMakeFiles/depth_image.dir/build.make CMakeFiles/depth_image.dir/reprojection_error.cpp.i
+.PHONY : reprojection_error.cpp.i
+
+reprojection_error.s: reprojection_error.cpp.s
+
+.PHONY : reprojection_error.s
+
+# target to generate assembly for a file
+reprojection_error.cpp.s:
+	$(MAKE) -f CMakeFiles/depth_image.dir/build.make CMakeFiles/depth_image.dir/reprojection_error.cpp.s
+.PHONY : reprojection_error.cpp.s
+
 resection.o: resection.cpp.o
 
 .PHONY : resection.o
@@ -396,6 +423,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... reprojection_error.o"
+	@echo "... reprojection_error.i"
+	@echo "... reprojection_error.s"
 	@echo "... resection.o"
 	@echo "... resection.i"
 	@echo "... resection.s"

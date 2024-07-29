@@ -6,6 +6,9 @@
 #include <opencv2/features2d.hpp>
 #include <opencv2/xfeatures2d.hpp>
 #include <opencv2/calib3d.hpp>
+#include <opencv2/core.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/sfm.hpp>
 
 // General Libraries
 #include <string> 
@@ -14,6 +17,7 @@
 #include <fstream>
 #include <vector>
 #include <cmath>
+
 
 // Headers
 #include "image_conversion.h"
@@ -36,21 +40,10 @@ void save_points3d(const std::vector<cv::Point3f>& pts3D, const std::string& fil
 // Converts Rotation MAtrix to angle in degrees 
 double rMatrix_2_angle(const cv::Mat& rMatrix);
 
-// Superimpose images
-void superimpose_images(const std::string& image1S, const std::string& image2S, const cv::Mat& rMatrix,
-                        const cv::Mat& tVector, const int& width, const int& height, const std::string& title);
-
-void superimpose_images_similar(const std::string& imageString, const cv::Mat& rMatrixData, const cv::Mat& rMatrixCode, 
-                        const int& width, const int& height, const std::string& title);
-
-// Calculates reprojection error
-double reprojection_error(const cv::Mat& pose, const std::vector<cv::Point2f>& pts2D, const std::vector<cv::Point3f>& pts3D, 
-                        const bool& average, const bool& view, const std::string& title);
-
 // Creates a vector of string type that returns image names
 std::vector<std::string> image_string_vector(const std::string& text, const std::string& imageType, const int& start, const int& stop);
 
-// Calculates reprojection for multiple images
-void reprojection_errors_multiple_images(int startImage, int endImage, const cv::Mat& kMatrix, const cv::Mat& distortion);
+// Visualise's the reprojection error on images
+void visualise_reprojection_error(const std::vector<std::string>& textImages, const int& imageIterations, const cv::Mat& kMatrix, const cv::Size& imageSize);
 
 #endif

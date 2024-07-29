@@ -5,17 +5,18 @@ project(depth_image)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-# Compile as C++11
-add_compile_options(-std=c++17)
 
 # Set the path to OpenCV directory
-set(OpenCV_DIR "/home/bryan/programs/opencv/build")
+set(OpenCV_DIR "~/programs/opencv_new/install")
+set(CMAKE_PREFIX_PATH ${OpenCV_DIR})
 
 # Find OpenCV
 find_package(OpenCV REQUIRED)
 
 # Include the OpenCV headers
 include_directories(${OpenCV_INCLUDE_DIRS})
+include_directories(${OpenCV_DIR}/include/opencv4)
+include_directories(${OpenCV_DIR}/include/opencv4/opencv2/sfm)
 
 # Executables
 add_executable(${PROJECT_NAME} 
@@ -28,6 +29,7 @@ add_executable(${PROJECT_NAME}
     triangulation.cpp
     resection.cpp
     dataset.cpp
+    reprojection_error.cpp
 )
 
 # Link the OpenCV libraries to your executable

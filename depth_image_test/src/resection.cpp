@@ -1,129 +1,96 @@
 #include "functions_and_libs.h"
 
 // Constructor
-Resection::Resection(const cv::Mat& kMatrix, const cv::Mat& distortion)
-                    : kMatrix(kMatrix), distortion(distortion) {}
+Resection::Resection(const std::vector<cv::DMatch>& pair1, const std::vector<cv::DMatch>& pair2,
+                     const std::vector<cv::Point3f>& points3D, const std::vector<cv::KeyPoint>& keypointsImage)
+                    : pair1(pair1), pair2(pair2), points3D(points3D), keypointsImage(keypointsImage) {}
+
+
+void Resection::match_matches(){
+    // clear containers
+    previousImageMatchIdx.clear();
+    nextImageMatchIdx.clear();
+    matches.clear();
+    points3DMatch.clear();
+    points2DMatch.clear();
+    matchesClean.clear();
+    points3DClean.clear();
+
+    // Extract second column from first pair of matches
+    for (const cv::DMatch& matchPrev : pair1){
+        previousImageMatchIdx.push_back(matchPrev.trainIdx);    // trainIdx is second column e.g. image2 matches from image 1 -> 2 match pair
+    }
+
+    // Extract first column from second pair of matches
+    for (const cv::DMatch& matchNext : pair2){
+        nextImageMatchIdx.push_back(matchNext.queryIdx);        // queryIdx is first column e.g. image3 matches from image 2 -> 3 match pair
+    }
+
+
+    // Check for matches between second column of first pair and first column of second pair
+    for (int i = 0; i < previousImageMatchIdx.size(); i++){
+        for (int j = 0; j < nextImageMatchIdx.size(); j++){
+            if (previousImageMatchIdx[i] == nextImageMatchIdx[j]){
+                matches.push_back(pair2[j].trainIdx);
+                points3DMatch.push_back(points3D[i]);
+            }
+        }
+    }
+
+    // remove duplicates
+    for (size_t k = 0; k < matches.size(); ++k) {
+        bool matchExists = false;
+        for (size_t l = 0; l < matchesClean.size(); ++l) {
+            if (matches[k] == matchesClean[l]) {
+                matchExists = true;
+                break;
+            }
+        }
+        if (!matchExists) {
+            matchesClean.push_back(matches[k]);
+            points3DClean.push_back(points3DMatch[k]);
+        }
+    }
+   
+    // Create 2D points that are based from matches
+    for (const int& match : matchesClean) {
+        points2DMatch.push_back(keypointsImage[match].pt);
+    }
+}
+
 
 // Perform resection
-void Resection::performResection(const std::vector<std::string>& images){
-    // Loop through images
-    for(int i = 0; i < images.size() - 1; i++){
-        // Debugging image input
-        //std::cout << "\n1 ->" << images[i] << "\n2 ->" << images[i + 1] << "\n";
+void Resection::performResection(const cv::Mat& kMatrix,const cv::Mat& distortion){
+    
+    // Create rotation and translation vectors using PnP Pg 647 - 648
+    cv::solvePnP(points3DClean, points2DMatch, kMatrix, distortion, rVector, tVector);
 
-        //  ============= Image Conversion ================================//
-        // Class construct parameters: ImageConversion(imageFile)
-        ImageConversion imageCurrent(images[i]);       
-        ImageConversion imageNext(images[i + 1]);
+    // Using Rodrigues to converts rotation vector to rotation matrix
+    cv::Rodrigues(rVector, rMatrix);
 
-        // Convert Image
-        imageCurrent.convert2gray();
-        imageNext.convert2gray();
-
-        //  ============= Feature Detecetion ==============================//
-        // Class construct parameters: FeatureDetect(imageGrey)
-        FeatureDetect imageCurrent_features(imageCurrent.getGreyImage());
-        FeatureDetect imageNext_features(imageNext.getGreyImage());
-
-        // Select feature detect method
-        imageCurrent_features.feature_detect("FAST");
-        imageNext_features.feature_detect("FAST");
-
-        //  ============= Feature Matching ================================//
-        /* Class construct parameters: FeatureMatching(image_1_descriptors, 
-                image_2_descriptors, image_1_keypoints, image_2_keypoints)*/
-        FeatureMatching image_matches(imageCurrent_features.getDescriptors(), 
-                                imageNext_features.getDescriptors(),
-                                imageCurrent_features.getKey(), 
-                                imageNext_features.getKey());
-
-        // Perform feature matching
-        image_matches.match_features(2, 0.8);
-
-        //  ============= Epipolar Geometry ================================//
-        /* Class construct parameters: EpipolarGeometry(matches, image_1_2D_points,
-         image_2_2D_points, keypoints1, keypoints2, image1, image2, kMatrix)*/
-        EpipolarGeometry epipolarObject(image_matches.getMatches(), 
-            image_matches.get2Dpoints_1(), image_matches.get2Dpoints_2(),
-            imageCurrent_features.getKey(), imageNext_features.getKey(), 
-            imageCurrent.getGreyImage(), imageNext.getGreyImage(), kMatrix);
-
-        // Perform epipolar geometry
-        epipolarObject.perform_epipolar_geometry(1, 0.99);
-
-        //  ============= Triangulation ====================================//
-        // Switch rotation and translation matrices depending on scenario to create pose matrix
-        if( i == 0){
-            cv::Mat r1Matrix = cv::Mat::eye(3, 3, CV_64F), t1Matrix = cv::Mat::zeros(3, 1, CV_64F);
-            poseCurrent = poseMatrix(kMatrix, r1Matrix, t1Matrix, true);
-            poseNext = poseMatrix(kMatrix, epipolarObject.getRotation(), epipolarObject.getTranslation(), true);
-
-            // Assign current rotation and translation matrices for next loop
-            previousRotationMatrix = epipolarObject.getRotation();
-            previousTranslationVector = epipolarObject.getTranslation();
-        }
-        else{
-            poseCurrent = poseMatrix(kMatrix, previousRotationMatrix, previousTranslationVector, true);
-            poseNext = poseMatrix(kMatrix, epipolarObject.getRotation(), epipolarObject.getTranslation(), true);
-
-            // Assign current rotation and translation matrices for next loop
-            previousRotationMatrix = epipolarObject.getRotation();
-            previousTranslationVector = epipolarObject.getTranslation();
-        }
-
-        // Class construct parameters: Triangulation(poseMatrix1, poseMatrix2, inlier1, inlier2)
-        Triangulation triangulateObject(poseCurrent, poseNext, epipolarObject.getInliers_1(), epipolarObject.getInliers_2());
-
-        // Create 3D points
-        triangulateObject.perform_triangulation();
-
-        // Peform solvePnP for each 2D points
-        for(int j = 0; j < 2; j++){
-            if (j == 0){
-                // Create rotation and translation vectors using PnP Pg 647 - 648
-                cv::solvePnP(triangulateObject.get3Dpoints(), epipolarObject.getInliers_1(), kMatrix, distortion, rVector, tVector);
-
-                // Using Rodrigues to converts rotation vector to rotation matrix
-                cv::Rodrigues(rVector, rotationMatrix);
-
-                // Convert rVector to angle in degrees
-                angle = cv::norm(rVector) * (180.0 / CV_PI);
-
-                // Push rotation and translation matrices nad angles
-                rotationMatrixVector.push_back(rotationMatrix);
-                translationVectorVector.push_back(tVector);
-                angles.push_back(angle);
-            }
-            else{
-                // Create rotation and translation vectors using PnP Pg 647 - 648
-                cv::solvePnP(triangulateObject.get3Dpoints(), epipolarObject.getInliers_2(), kMatrix, distortion, rVector, tVector);
-
-                // Using Rodrigues to converts rotation vector to rotation matrix
-                cv::Rodrigues(rVector, rotationMatrix);
-
-                // Convert rVector to angle in degrees
-                angle = cv::norm(rVector) * (180.0 / CV_PI);
-
-                // Push rotation and translation matrices nad angles
-                rotationMatrixVector.push_back(rotationMatrix);
-                translationVectorVector.push_back(tVector);
-                angles.push_back(angle);
-            }
-        }   
-    }
 }  
 
 // return rotation matrix
-std::vector<cv::Mat> Resection::getRotation(){
-    return rotationMatrixVector;
+cv::Mat Resection::getRotation(){
+    return rMatrix;
+}
+
+// return rotation vector
+cv::Mat Resection::getRotationVector(){
+    return rVector;
 }
 
 // return translation
-std::vector<cv::Mat> Resection::getTranslation(){
-    return translationVectorVector;
+cv::Mat Resection::getTranslation(){
+    return tVector;
 }
 
-// return angle in degrees
-std::vector<double> Resection::getRotationAngle(){
-    return angles;
+// return respective 2D points
+std::vector<cv::Point2f> Resection::get2Dpoints(){
+    return points2DMatch;
+}
+
+// return respective 3D points
+std::vector<cv::Point3f> Resection::get3Dpoints(){
+    return points3DClean;
 }

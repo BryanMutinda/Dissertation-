@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/depth_image.dir/functions_and_libs.cpp.o"
   "CMakeFiles/depth_image.dir/image_conversion.cpp.o"
   "CMakeFiles/depth_image.dir/main.cpp.o"
+  "CMakeFiles/depth_image.dir/reprojection_error.cpp.o"
   "CMakeFiles/depth_image.dir/resection.cpp.o"
   "CMakeFiles/depth_image.dir/triangulation.cpp.o"
   "depth_image"
