@@ -112,7 +112,7 @@ double reprojection_error(const std::vector<cv::Point2f>& pts2DActual, const std
 void visualise_reprojection(const cv::Size& imageSize, const int& imageNum, const std::vector<cv::Point2f> pts2DActual, const std::vector<cv::Point2f> pts2DPose){
 
     // Create window
-    std::string windowName = "2D Points (" + std::to_string(imageNum) + " - " + std::to_string(imageNum + 1) + " )";
+    std::string windowName = "2D Points (image " + std::to_string(imageNum) + " )";
     cv::namedWindow(windowName, cv::WINDOW_AUTOSIZE);
 
     // Create blank image for 2D points
@@ -219,7 +219,7 @@ void visualise_reprojection_error(const std::vector<std::string>& textImages, co
         // Next Image reprojection error
         estimate2Dpoints = create_2D_points_from_3D(nextPose, triangulateObject.get3Dpoints());
         reprojection_error(epipolarObject.getInliers_2(), estimate2Dpoints, true, true, nextImage);
-        visualise_reprojection(imageSize, j, epipolarObject.getInliers_2(), estimate2Dpoints);
+        visualise_reprojection(imageSize, j + 1, epipolarObject.getInliers_2(), estimate2Dpoints);
                            
     }
 
