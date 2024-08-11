@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/SetNullSpaceModeState.l

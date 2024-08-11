@@ -1,0 +1,2 @@
+set(costmap_prohibition_layer_MESSAGE_FILES "")
+set(costmap_prohibition_layer_SERVICE_FILES "/home/bryan/dissertation/Dissertation-/summit_sim_git/src/costmap_prohibition_layer/srv/ClearProhibitedPoints.srv;/home/bryan/dissertation/Dissertation-/summit_sim_git/src/costmap_prohibition_layer/srv/GetProhibitedPoints.srv;/home/bryan/dissertation/Dissertation-/summit_sim_git/src/costmap_prohibition_layer/srv/SetProhibitedPoints.srv;/home/bryan/dissertation/Dissertation-/summit_sim_git/src/costmap_prohibition_layer/srv/AddProhibitedPoints.srv")

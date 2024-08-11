@@ -1,0 +1,8 @@
+prefix=/home/bryan/dissertation/Dissertation-/simulation_summit/devel
+
+Name: dissertation_sim
+Description: Description of dissertation_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

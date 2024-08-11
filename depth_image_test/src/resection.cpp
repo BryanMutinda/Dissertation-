@@ -37,6 +37,8 @@ void Resection::match_matches(){
         }
     }
 
+    std::cout << "\nMatches before remove duplicates: " <<matches.size();
+
     // remove duplicates
     for (size_t k = 0; k < matches.size(); ++k) {
         bool matchExists = false;
@@ -51,6 +53,8 @@ void Resection::match_matches(){
             points3DClean.push_back(points3DMatch[k]);
         }
     }
+
+    std::cout << "\nMatches after remove duplicates: " <<matchesClean.size();
    
     // Create 2D points that are based from matches
     for (const int& match : matchesClean) {

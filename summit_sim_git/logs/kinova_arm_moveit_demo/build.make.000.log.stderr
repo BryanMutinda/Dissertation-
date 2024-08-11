@@ -1,0 +1,81 @@
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::build_workscene()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:216:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  216 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/test_accuracy.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:3[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::add_obstacle()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:262:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  262 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/test_accuracy.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:3[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::add_complex_obstacle()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:286:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  286 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/test_accuracy.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:3[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::add_target()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:345:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  345 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::CYLINDER>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/test_accuracy.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:3[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::evaluate_move_accuracy()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:707:72:[m[K [01;35m[Kwarning: [m[K‘[01m[Kconst moveit::core::RobotState& moveit::planning_interface::MoveGroupInterface::getJointValueTarget() const[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+  707 |     robot_state::RobotState target_state = group_->getJointValueTarget([01;35m[K)[m[K;
+      |                                                                        [01;35m[K^[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/test_accuracy.h:15[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/test_accuracy.cpp:3[m[K:
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:551:50:[m[K [01;36m[Knote: [m[Kdeclared here
+  551 |   [[deprecated]] const moveit::core::RobotState& [01;36m[KgetJointValueTarget[m[K() const;
+      |                                                  [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::build_workscene()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:208:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  208 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/pick_place.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::add_obstacle()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:254:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  254 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/pick_place.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::add_complex_obstacle()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:282:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  282 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::BOX>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/pick_place.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:[m[K In member function ‘[01m[Kvoid kinova::PickPlace::add_target()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:341:59:[m[K [01;35m[Kwarning: [m[K‘[01m[Ktemplate<int shape> struct geometric_shapes::SolidPrimitiveDimCount[m[K’ is deprecated: Replace SolidPrimitiveDimCount<SHAPE>::value with solidPrimitiveDimCount<SHAPE>() [[01;35m[K-Wdeprecated-declarations[m[K]
+  341 |     co_.primitives[0].dimensions.resize(geometric_shapes::[01;35m[KSolidPrimitiveDimCount[m[K<shape_msgs::SolidPrimitive::CYLINDER>::value);
+      |                                                           [01;35m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/include/pick_place.h:22[m[K,
+                 from [01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/kinova-ros/kinova_moveit/kinova_arm_moveit_demo/src/pick_place.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/geometric_shapes/solid_primitive_dims.h:72:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   72 | [01;36m[KSolidPrimitiveDimCount[m[K
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K

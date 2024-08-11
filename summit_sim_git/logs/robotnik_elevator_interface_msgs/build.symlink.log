@@ -1,0 +1,185 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControlResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControl.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/ElevatorState.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControlRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorStateRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloorRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloor.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorStateResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorState.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloorResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/_ElevatorState.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetElevatorControl.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetDoorState.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_GoToFloor.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/robotnik_elevator_interface_msgs.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/manifest.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/robotnik_elevator_interface_msgs-msg.asd
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package_ElevatorState.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetDoorState.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetElevatorControl.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_GoToFloor.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/robotnik_elevator_interface_msgs-srv.asd
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-extras.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-paths.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig-version.cmake
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/SetElevatorControlResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControlResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/SetElevatorControl.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControl.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/ElevatorState.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/ElevatorState.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/SetElevatorControlRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControlRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/SetDoorStateRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorStateRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/GoToFloorRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloorRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/GoToFloor.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloor.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/SetDoorStateResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorStateResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/SetDoorState.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorState.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/include/robotnik_elevator_interface_msgs/GoToFloorResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloorResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/_ElevatorState.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/_ElevatorState.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetElevatorControl.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetElevatorControl.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetDoorState.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetDoorState.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_GoToFloor.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_GoToFloor.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/lib/pkgconfig/robotnik_elevator_interface_msgs.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/robotnik_elevator_interface_msgs.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/roseus/ros/robotnik_elevator_interface_msgs/manifest.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/manifest.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/roseus/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/roseus/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/robotnik_elevator_interface_msgs-msg.asd, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/robotnik_elevator_interface_msgs-msg.asd)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package_ElevatorState.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package_ElevatorState.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetDoorState.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetDoorState.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetElevatorControl.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetElevatorControl.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_GoToFloor.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_GoToFloor.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/robotnik_elevator_interface_msgs-srv.asd, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/robotnik_elevator_interface_msgs-srv.asd)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-extras.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-extras.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-paths.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-paths.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig-version.cmake)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControlResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControl.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/ElevatorState.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetElevatorControlRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorStateRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloorRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloor.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorStateResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/SetDoorState.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/robotnik_elevator_interface_msgs/GoToFloorResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/_ElevatorState.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetElevatorControl.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_SetDoorState.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/_GoToFloor.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/robotnik_elevator_interface_msgs/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/robotnik_elevator_interface_msgs.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/manifest.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/robotnik_elevator_interface_msgs-msg.asd
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/ElevatorState.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package_ElevatorState.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetDoorState.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_SetElevatorControl.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetDoorState.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/_package_GoToFloor.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/robotnik_elevator_interface_msgs-srv.asd
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/GoToFloor.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/robotnik_elevator_interface_msgs/srv/SetElevatorControl.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgs-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig-version.cmake
+Already unlinked: {}

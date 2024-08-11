@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig.cmake

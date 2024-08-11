@@ -8,6 +8,11 @@
 #include <opencv2/calib3d.hpp>
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
+
+// Bundle adjusment libs
+#include <opencv2/stitching/detail/warpers.hpp>
+#include <opencv2/viz.hpp>
+#include <opencv2/imgcodecs.hpp>
 #include <opencv2/sfm.hpp>
 
 // General Libraries
@@ -45,5 +50,7 @@ std::vector<std::string> image_string_vector(const std::string& text, const std:
 
 // Visualise's the reprojection error on images
 void visualise_reprojection_error(const std::vector<std::string>& textImages, const int& imageIterations, const cv::Mat& kMatrix, const cv::Size& imageSize);
+
+void bundle_adjustment(const std::vector<std::string>& imageFiles, const cv::Size& imageSize);
 
 #endif

@@ -1,0 +1,45 @@
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_cpp[0m
+[  0%] Built target robotnik_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _summit_xl_pad_generate_messages_check_deps_enable_disable_pad[0m
+[  0%] Built target _summit_xl_pad_generate_messages_check_deps_enable_disable_pad
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_nodejs[0m
+[  0%] Built target robotnik_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_lisp[0m
+[  0%] Built target robotnik_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_py[0m
+[  0%] Built target robotnik_msgs_generate_messages_py
+[35m[1mScanning dependencies of target robotnik_msgs_generate_messages_eus[0m
+[  0%] Built target robotnik_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target summit_xl_pad_generate_messages_cpp[0m
+[ 11%] [34m[1mGenerating C++ code from summit_xl_pad/enable_disable_pad.srv[0m
+[ 11%] Built target summit_xl_pad_generate_messages_cpp
+[35m[1mScanning dependencies of target summit_xl_pad_generate_messages_nodejs[0m
+[ 22%] [34m[1mGenerating Javascript code from summit_xl_pad/enable_disable_pad.srv[0m
+[ 22%] Built target summit_xl_pad_generate_messages_nodejs
+[35m[1mScanning dependencies of target summit_xl_pad_generate_messages_lisp[0m
+[ 33%] [34m[1mGenerating Lisp code from summit_xl_pad/enable_disable_pad.srv[0m
+[ 33%] Built target summit_xl_pad_generate_messages_lisp
+[35m[1mScanning dependencies of target summit_xl_pad_generate_messages_py[0m
+[ 44%] [34m[1mGenerating Python code from SRV summit_xl_pad/enable_disable_pad[0m
+[ 55%] [34m[1mGenerating Python srv __init__.py for summit_xl_pad[0m
+[ 55%] Built target summit_xl_pad_generate_messages_py
+[35m[1mScanning dependencies of target summit_xl_pad_generate_messages_eus[0m
+[ 66%] [34m[1mGenerating EusLisp code from summit_xl_pad/enable_disable_pad.srv[0m
+[ 77%] [34m[1mGenerating EusLisp manifest code for summit_xl_pad[0m
+[ 77%] Built target summit_xl_pad_generate_messages_eus
+[35m[1mScanning dependencies of target summit_xl_pad[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/summit_xl_pad.dir/src/summit_xl_pad.cpp.o[0m
+[35m[1mScanning dependencies of target summit_xl_pad_generate_messages[0m
+[ 88%] Built target summit_xl_pad_generate_messages
+[100%] [32m[1mLinking CXX executable /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/summit_xl_pad/lib/summit_xl_pad/summit_xl_pad[0m
+[100%] Built target summit_xl_pad

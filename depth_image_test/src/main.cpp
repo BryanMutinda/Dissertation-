@@ -133,10 +133,43 @@ int main() {
 /* ======================================================================================================= 
                                 Bundle adjusment (Images 1, 2 & 3)
 ==========================================================================================================*/
+    
+    // Variables
+    cv::Size imageSize = image1_grey.getGreyImage().size();             // Image size
+
+
+/*
+    // Variables
+    std::vector<cv::Mat> rBundle, tBundle;
+    std::vector<cv::Point3f> bundle3Dpoints;
+
+
+    // Initialize bundle adjustment
+    cv::sfm::simple_pipeline pipeline; // Example, if available
+    pipeline.initialize(bundle3Dpoints, projections_float, imagePoints);
+
+    */
+
+/*
+    cv::Mat rVectorBundle, tVectorBundle;
+    cv::sfm::SFMLibmvEuclideanReconstruction::run(resectionObject.get2Dpoints(), kMatrix, rVectorBundle, tVectorBundle,bundle3Dpoints)
+
+*/
+
+/*
+    cv::detail::BundleAdjusterBase::estimate	(	const std::vector< ImageFeatures > & 	features,
+const std::vector< MatchesInfo > & 	pairwise_matches,
+std::vector< CameraParams > & 	cameras 
+)	
+*/
+
+   
+
 
 /*
     // Perform bundle adjustment
     cv::sfm::bundleAdjust(points3D, points2D, kMatrix, rVector, tVector, cameraDistortion);
+    
 
     // Output optimized camera parameters
     std::cout << "Optimized camera matrix: " << std::endl << kMatrix << std::endl;
@@ -151,9 +184,6 @@ int main() {
 /* ======================================================================================================= 
                                 Reprojection Error
 ==========================================================================================================*/
-    // Variables
-    cv::Size imageSize = image1_grey.getGreyImage().size();             // Image size
-
     // Function creates a vector of string type containing image locations
     std::vector<std::string> imageFiles = image_string_vector("../images/dinoSparseRing/dinoSR000", ".png", 1, 16);
 

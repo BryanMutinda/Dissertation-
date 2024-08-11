@@ -1,0 +1,85 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/interbotix_xsarm_diagnostic_tool/JointTemps.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/xsarm_diagnostic_tool
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/cmake.lock
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/bag2csv.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/_JointTemps.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_diagnostic_tool.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-extras.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig-version.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-paths.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/interbotix_xsarm_diagnostic_tool/manifest.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package_JointTemps.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/interbotix_xsarm_diagnostic_tool-msg.asd
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.lisp
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/include/interbotix_xsarm_diagnostic_tool/JointTemps.h, /home/bryan/dissertation/summit_sim_git/devel/include/interbotix_xsarm_diagnostic_tool/JointTemps.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/interbotix_xsarm_diagnostic_tool/xsarm_diagnostic_tool, /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/xsarm_diagnostic_tool)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/interbotix_xsarm_diagnostic_tool/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/interbotix_xsarm_diagnostic_tool/bag2csv.py, /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/bag2csv.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/_JointTemps.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/_JointTemps.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/pkgconfig/interbotix_xsarm_diagnostic_tool.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_diagnostic_tool.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-extras.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-extras.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig-version.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-paths.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-paths.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/roseus/ros/interbotix_xsarm_diagnostic_tool/manifest.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/interbotix_xsarm_diagnostic_tool/manifest.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/roseus/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package_JointTemps.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package_JointTemps.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/interbotix_xsarm_diagnostic_tool-msg.asd, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/interbotix_xsarm_diagnostic_tool-msg.asd)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.lisp)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/interbotix_xsarm_diagnostic_tool/JointTemps.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/xsarm_diagnostic_tool
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/cmake.lock
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xsarm_diagnostic_tool/bag2csv.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/_JointTemps.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xsarm_diagnostic_tool/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_diagnostic_tool.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_toolConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_diagnostic_tool/cmake/interbotix_xsarm_diagnostic_tool-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/interbotix_xsarm_diagnostic_tool/manifest.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/interbotix_xsarm_diagnostic_tool/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/_package_JointTemps.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/interbotix_xsarm_diagnostic_tool-msg.asd
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/interbotix_xsarm_diagnostic_tool/msg/JointTemps.lisp
+Already unlinked: {}

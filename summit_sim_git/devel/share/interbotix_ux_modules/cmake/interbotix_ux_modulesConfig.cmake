@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_ux_modules/share/interbotix_ux_modules/cmake/interbotix_ux_modulesConfig.cmake

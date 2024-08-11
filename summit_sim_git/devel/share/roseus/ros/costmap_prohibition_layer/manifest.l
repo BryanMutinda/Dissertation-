@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/costmap_prohibition_layer/share/roseus/ros/costmap_prohibition_layer/manifest.l

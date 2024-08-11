@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_sensors/lib/pkgconfig/robotnik_sensors.pc

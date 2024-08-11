@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/m1n6s300_ikfast/lib/pkgconfig/m1n6s300_ikfast.pc

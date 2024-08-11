@@ -1,0 +1,13 @@
+kinova-ros/kinova_driver
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/cmake.lock /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/./cmake.lock
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/libkinova_driver.so /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/libkinova_driver.so
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/python3/dist-packages/kinova_driver/__init__.py /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_driver/__init__.py
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/python3/dist-packages/kinova_driver/cfg/__init__.py /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_driver/cfg/__init__.py
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/kinova_driver/kinova_interactive_control /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/kinova_driver/kinova_interactive_control
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/kinova_driver/kinova_arm_driver /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/kinova_driver/kinova_arm_driver
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/kinova_driver/joint_trajectory_action_server /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/kinova_driver/joint_trajectory_action_server
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/kinova_driver/kinova_tf_updater /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/kinova_driver/kinova_tf_updater
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/kinova_driver/gripper_command_action_server /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/kinova_driver/gripper_command_action_server
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/lib/pkgconfig/kinova_driver.pc /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/kinova_driver.pc
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig-version.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_driver/cmake/kinova_driverConfig-version.cmake
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_driver/cmake/kinova_driverConfig.cmake

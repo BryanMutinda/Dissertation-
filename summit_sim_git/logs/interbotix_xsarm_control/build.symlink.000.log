@@ -1,0 +1,13 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_control.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig-version.cmake
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_control/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_control/lib/pkgconfig/interbotix_xsarm_control.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_control.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_control/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_control/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig-version.cmake)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_control.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_control/cmake/interbotix_xsarm_controlConfig-version.cmake
+Already unlinked: {}

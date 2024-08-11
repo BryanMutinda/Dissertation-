@@ -1,0 +1,32 @@
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component_async.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleComponent::rosSetup()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component_async.cpp:59:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   59 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component_async.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleComponent::rosShutdown()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component_async.cpp:67:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   67 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_service_component.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleServiceComponent::rosSetup()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_service_component.cpp:54:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   54 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_service_component.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleServiceComponent::rosShutdown()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_service_component.cpp:64:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   64 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_diagnostics_component.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleDiagnosticsComponent::rosSetup()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_diagnostics_component.cpp:89:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   89 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_diagnostics_component.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleDiagnosticsComponent::rosShutdown()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_diagnostics_component.cpp:99:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   99 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleComponent::rosSetup()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component.cpp:59:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   59 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component.cpp:[m[K In member function ‘[01m[Kvirtual int SimpleComponent::rosShutdown()[m[K’:
+[01m[K/home/bryan/dissertation/Dissertation-/summit_sim_git/src/rcomponent/src/simple_component.cpp:67:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+   67 |   [01;35m[K}[m[K
+      |   [01;35m[K^[m[K

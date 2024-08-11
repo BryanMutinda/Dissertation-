@@ -1,0 +1,17 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_demo/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/kinova_demo.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_demo/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_demo/lib/python3/dist-packages/kinova_demo/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_demo/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_demo/lib/pkgconfig/kinova_demo.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/kinova_demo.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_demo/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/kinova_demo.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake
+Already unlinked: {}

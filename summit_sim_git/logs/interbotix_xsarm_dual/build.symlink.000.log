@@ -1,0 +1,13 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_dual.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig-version.cmake
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_dual/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_dual/lib/pkgconfig/interbotix_xsarm_dual.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_dual.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_dual/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xsarm_dual/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig-version.cmake)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xsarm_dual.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xsarm_dual/cmake/interbotix_xsarm_dualConfig-version.cmake
+Already unlinked: {}

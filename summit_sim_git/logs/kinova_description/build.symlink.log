@@ -1,0 +1,13 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/kinova_description.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_description/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_description/lib/pkgconfig/kinova_description.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/kinova_description.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_description/share/kinova_description/cmake/kinova_descriptionConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_description/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/kinova_description.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake
+Already unlinked: {}

@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_gazebo_ground_truth_odom/lib/pkgconfig/robotnik_gazebo_ground_truth_odom.pc

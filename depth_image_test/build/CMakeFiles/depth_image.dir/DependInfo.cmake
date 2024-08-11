@@ -20,7 +20,6 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/bryan/programs/opencv_new/install/lib/cmake/opencv4/include/opencv4"
-  "/home/bryan/programs/opencv_new/install/lib/cmake/opencv4/include/opencv4/opencv2/sfm"
   "/home/bryan/programs/opencv_new/install/include/opencv4"
   )
 

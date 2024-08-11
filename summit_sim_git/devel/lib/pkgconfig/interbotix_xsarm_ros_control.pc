@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xsarm_ros_control/lib/pkgconfig/interbotix_xsarm_ros_control.pc

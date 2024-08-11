@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_gazebo/share/kinova_gazebo/cmake/kinova_gazeboConfig.cmake

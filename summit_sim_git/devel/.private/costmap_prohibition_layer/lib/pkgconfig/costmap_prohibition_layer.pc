@@ -1,0 +1,8 @@
+prefix=/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/costmap_prohibition_layer
+
+Name: costmap_prohibition_layer
+Description: Description of costmap_prohibition_layer
+Version: 0.0.5
+Cflags: -I/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/costmap_prohibition_layer/include -I/home/bryan/dissertation/Dissertation-/summit_sim_git/src/costmap_prohibition_layer/include
+Libs: -L${prefix}/lib -lcostmap_prohibition_layer
+Requires: costmap_2d dynamic_reconfigure

@@ -1,0 +1,17 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/interbotix_xs_ros_control/xs_hardware_interface
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/interbotix_xs_ros_control.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig-version.cmake
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xs_ros_control/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xs_ros_control/lib/interbotix_xs_ros_control/xs_hardware_interface, /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xs_ros_control/xs_hardware_interface)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xs_ros_control/lib/pkgconfig/interbotix_xs_ros_control.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xs_ros_control.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig-version.cmake)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/interbotix_xs_ros_control/xs_hardware_interface
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/interbotix_xs_ros_control.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig-version.cmake
+Already unlinked: {}

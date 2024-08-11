@@ -1,0 +1,5 @@
+kinova-ros/kinova_bringup
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_bringup/cmake.lock /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/./cmake.lock
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_bringup/lib/pkgconfig/kinova_bringup.pc /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/kinova_bringup.pc
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_bringup/share/kinova_bringup/cmake/kinova_bringupConfig-version.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_bringup/cmake/kinova_bringupConfig-version.cmake
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_bringup/share/kinova_bringup/cmake/kinova_bringupConfig.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_bringup/cmake/kinova_bringupConfig.cmake

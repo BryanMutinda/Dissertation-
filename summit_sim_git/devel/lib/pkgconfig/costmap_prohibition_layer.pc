@@ -1,0 +1,1 @@
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/costmap_prohibition_layer/lib/pkgconfig/costmap_prohibition_layer.pc

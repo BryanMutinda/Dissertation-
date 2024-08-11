@@ -1,0 +1,1425 @@
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ClearTrajectoriesResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Start.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeStateResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ZeroTorquesResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/HomeArmRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ZeroTorquesRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Stop.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlMode.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/CartesianForce.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffset.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeStateRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffsetRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParametersRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetForceControlParamsResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/JointAngles.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlModeRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesAction.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseAction.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectoryRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ZeroTorques.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/JointTorque.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimationResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParameters.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseAction.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/StartRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimation.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/JointVelocity.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/PoseVelocityWithFingers.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/PoseVelocity.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ClearTrajectoriesRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffsetResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParametersResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionAction.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetForceControlParams.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/HomeArm.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectory.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlModeResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/StartResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeState.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/KinovaPose.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/StopResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/HomeArmResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimationRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/StopRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectoryResponse.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/SetForceControlParamsRequest.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionGoal.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/FingerPosition.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionFeedback.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ClearTrajectories.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesResult.h
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointTorque.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_FingerPosition.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocity.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_CartesianForce.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointAngles.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocityWithFingers.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_KinovaPose.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionGoal.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointVelocity.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesFeedback.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_Start.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_ClearTrajectories.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_ZeroTorques.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_RunCOMParametersEstimation.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetNullSpaceModeState.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlParameters.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetEndEffectorOffset.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetForceControlParams.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlMode.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/__init__.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_Stop.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_HomeArm.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_AddPoseToCartesianTrajectory.py
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/kinova_msgs.pc
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/manifest.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointTorque.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointVelocity.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/PoseVelocity.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointAngles.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/KinovaPose.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/PoseVelocityWithFingers.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/CartesianForce.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/FingerPosition.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetEndEffectorOffset.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetTorqueControlParameters.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/RunCOMParametersEstimation.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetNullSpaceModeState.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/HomeArm.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/ClearTrajectories.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetForceControlParams.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/Stop.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetTorqueControlMode.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/Start.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/ZeroTorques.l
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/KinovaPose.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointVelocity.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/PoseVelocityWithFingers.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/CartesianForce.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/FingerPosition.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointAngles.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/PoseVelocity.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointTorque.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/Stop.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/HomeArm.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlMode.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/Start.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/RunCOMParametersEstimation.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetForceControlParams.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/ZeroTorques.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/_index.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlParameters.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetEndEffectorOffset.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/ClearTrajectories.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetNullSpaceModeState.js
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseAction.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgs-msg-paths.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgsConfig.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgsConfig-version.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgs-msg-extras.cmake
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/KinovaPose.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocityWithFingers.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/CartesianForce.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/PoseVelocity.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_CartesianForce.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointAngles.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/PoseVelocityWithFingers.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointAngles.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_FingerPosition.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointTorque.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_KinovaPose.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/FingerPosition.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointVelocity.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/kinova_msgs-msg.asd
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocity.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointTorque.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesAction.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointVelocity.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionGoal.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionResult.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesFeedback.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_RunCOMParametersEstimation.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetForceControlParams.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/Stop.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlParameters.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetEndEffectorOffset.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_ZeroTorques.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/ClearTrajectories.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetNullSpaceModeState.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_ClearTrajectories.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_Start.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetForceControlParams.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_AddPoseToCartesianTrajectory.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetEndEffectorOffset.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/HomeArm.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlMode.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/Start.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_Stop.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetNullSpaceModeState.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/ZeroTorques.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlParameters.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlMode.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_HomeArm.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/kinova_msgs-srv.asd
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/RunCOMParametersEstimation.lisp
+Symlinking /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.lisp
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/cmake.lock, /home/bryan/dissertation/summit_sim_git/devel/./cmake.lock)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseActionFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ClearTrajectoriesResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ClearTrajectoriesResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Start.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Start.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetNullSpaceModeStateResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeStateResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ZeroTorquesResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ZeroTorquesResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionActionResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/HomeArmRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/HomeArmRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ZeroTorquesRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ZeroTorquesRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Stop.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Stop.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetTorqueControlMode.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlMode.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/CartesianForce.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/CartesianForce.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetEndEffectorOffset.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffset.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseActionResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetNullSpaceModeStateRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeStateRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetEndEffectorOffsetRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffsetRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetTorqueControlParametersRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParametersRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetForceControlParamsResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetForceControlParamsResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/JointAngles.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/JointAngles.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetTorqueControlModeRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlModeRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseActionGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesAction.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesAction.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseActionFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseAction.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseAction.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/AddPoseToCartesianTrajectoryRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectoryRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesActionGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ZeroTorques.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ZeroTorques.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/JointTorque.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/JointTorque.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/RunCOMParametersEstimationResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimationResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetTorqueControlParameters.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParameters.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseAction.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseAction.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/StartRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StartRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/RunCOMParametersEstimation.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimation.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/JointVelocity.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/JointVelocity.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/PoseVelocityWithFingers.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/PoseVelocityWithFingers.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/PoseVelocity.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/PoseVelocity.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ClearTrajectoriesRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ClearTrajectoriesRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionActionGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetEndEffectorOffsetResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffsetResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetTorqueControlParametersResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParametersResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionAction.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionAction.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseActionResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetForceControlParams.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetForceControlParams.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/HomeArm.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/HomeArm.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/AddPoseToCartesianTrajectory.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectory.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetFingersPositionActionFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetTorqueControlModeResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlModeResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/StartResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StartResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetNullSpaceModeState.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeState.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/KinovaPose.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/KinovaPose.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/StopResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StopResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesActionResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/Arm_KinovaPoseGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/HomeArmResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/HomeArmResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/RunCOMParametersEstimationRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimationRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/StopRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StopRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/AddPoseToCartesianTrajectoryResponse.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectoryResponse.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/SetForceControlParamsRequest.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetForceControlParamsRequest.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmPoseActionGoal.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionGoal.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/FingerPosition.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/FingerPosition.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesActionFeedback.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionFeedback.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ClearTrajectories.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ClearTrajectories.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/include/kinova_msgs/ArmJointAnglesResult.h, /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesResult.h)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_JointTorque.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointTorque.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_FingerPosition.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_FingerPosition.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocity.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocity.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_CartesianForce.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_CartesianForce.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_JointAngles.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointAngles.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocityWithFingers.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocityWithFingers.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_KinovaPose.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_KinovaPose.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionGoal.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionGoal.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_JointVelocity.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointVelocity.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesFeedback.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesFeedback.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_Start.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_Start.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_ClearTrajectories.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_ClearTrajectories.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_ZeroTorques.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_ZeroTorques.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_RunCOMParametersEstimation.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_RunCOMParametersEstimation.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_SetNullSpaceModeState.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetNullSpaceModeState.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlParameters.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlParameters.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_SetEndEffectorOffset.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetEndEffectorOffset.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_SetForceControlParams.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetForceControlParams.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlMode.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlMode.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/__init__.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/__init__.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_Stop.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_Stop.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_HomeArm.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_HomeArm.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/python3/dist-packages/kinova_msgs/srv/_AddPoseToCartesianTrajectory.py, /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_AddPoseToCartesianTrajectory.py)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/lib/pkgconfig/kinova_msgs.pc, /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/kinova_msgs.pc)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/manifest.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/manifest.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/JointTorque.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointTorque.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/JointVelocity.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointVelocity.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/PoseVelocity.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/PoseVelocity.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/JointAngles.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointAngles.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/KinovaPose.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/KinovaPose.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/PoseVelocityWithFingers.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/PoseVelocityWithFingers.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/CartesianForce.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/CartesianForce.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/FingerPosition.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/FingerPosition.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/SetEndEffectorOffset.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetEndEffectorOffset.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/SetTorqueControlParameters.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetTorqueControlParameters.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/RunCOMParametersEstimation.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/RunCOMParametersEstimation.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/SetNullSpaceModeState.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetNullSpaceModeState.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/HomeArm.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/HomeArm.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/ClearTrajectories.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/ClearTrajectories.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/SetForceControlParams.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetForceControlParams.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/Stop.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/Stop.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/SetTorqueControlMode.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetTorqueControlMode.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/Start.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/Start.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/srv/ZeroTorques.l, /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/ZeroTorques.l)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/KinovaPose.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/KinovaPose.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/JointVelocity.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointVelocity.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/PoseVelocityWithFingers.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/PoseVelocityWithFingers.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/CartesianForce.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/CartesianForce.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/FingerPosition.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/FingerPosition.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/JointAngles.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointAngles.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/PoseVelocity.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/PoseVelocity.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/JointTorque.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointTorque.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/Stop.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/Stop.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/HomeArm.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/HomeArm.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlMode.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlMode.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/Start.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/Start.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/RunCOMParametersEstimation.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/RunCOMParametersEstimation.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/SetForceControlParams.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetForceControlParams.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/ZeroTorques.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/ZeroTorques.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/_index.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/_index.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlParameters.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlParameters.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/SetEndEffectorOffset.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetEndEffectorOffset.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/ClearTrajectories.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/ClearTrajectories.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/gennodejs/ros/kinova_msgs/srv/SetNullSpaceModeState.js, /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetNullSpaceModeState.js)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionActionResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionAction.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseActionGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseActionFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseAction.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseAction.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesAction.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseActionResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionGoal.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmPoseFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/msg/SetFingersPositionResult.msg, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/cmake/kinova_msgs-msg-paths.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgs-msg-paths.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/cmake/kinova_msgsConfig.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgsConfig.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/cmake/kinova_msgsConfig-version.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgsConfig-version.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/kinova_msgs/cmake/kinova_msgs-msg-extras.cmake, /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgs-msg-extras.cmake)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/KinovaPose.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/KinovaPose.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocityWithFingers.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocityWithFingers.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/CartesianForce.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/CartesianForce.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/PoseVelocity.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/PoseVelocity.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_CartesianForce.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_CartesianForce.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_JointAngles.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointAngles.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/PoseVelocityWithFingers.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/PoseVelocityWithFingers.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/JointAngles.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointAngles.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_FingerPosition.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_FingerPosition.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/JointTorque.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointTorque.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_KinovaPose.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_KinovaPose.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/FingerPosition.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/FingerPosition.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_JointVelocity.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointVelocity.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/kinova_msgs-msg.asd, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/kinova_msgs-msg.asd)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocity.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocity.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_JointTorque.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointTorque.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesAction.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesAction.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/JointVelocity.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointVelocity.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionGoal.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionGoal.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionResult.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionResult.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesFeedback.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesFeedback.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_RunCOMParametersEstimation.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_RunCOMParametersEstimation.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/SetForceControlParams.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetForceControlParams.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/Stop.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/Stop.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlParameters.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlParameters.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/SetEndEffectorOffset.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetEndEffectorOffset.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_ZeroTorques.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_ZeroTorques.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/ClearTrajectories.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/ClearTrajectories.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_SetNullSpaceModeState.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetNullSpaceModeState.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_ClearTrajectories.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_ClearTrajectories.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_Start.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_Start.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_SetForceControlParams.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetForceControlParams.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_AddPoseToCartesianTrajectory.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_AddPoseToCartesianTrajectory.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_SetEndEffectorOffset.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetEndEffectorOffset.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/HomeArm.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/HomeArm.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlMode.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlMode.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/Start.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/Start.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_Stop.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_Stop.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/SetNullSpaceModeState.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetNullSpaceModeState.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/ZeroTorques.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/ZeroTorques.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlParameters.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlParameters.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlMode.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlMode.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/_package_HomeArm.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_HomeArm.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/kinova_msgs-srv.asd, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/kinova_msgs-srv.asd)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/RunCOMParametersEstimation.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/RunCOMParametersEstimation.lisp)
+Cleaning: (/home/bryan/dissertation/summit_sim_git/devel/.private/kinova_msgs/share/common-lisp/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.lisp, /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.lisp)
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ClearTrajectoriesResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Start.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeStateResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ZeroTorquesResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/HomeArmRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ZeroTorquesRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Stop.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlMode.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/CartesianForce.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffset.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeStateRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffsetRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParametersRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetForceControlParamsResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/JointAngles.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlModeRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesAction.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseAction.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectoryRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ZeroTorques.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/JointTorque.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimationResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParameters.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseAction.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StartRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimation.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/JointVelocity.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/PoseVelocityWithFingers.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/PoseVelocity.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ClearTrajectoriesRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetEndEffectorOffsetResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlParametersResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionAction.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetForceControlParams.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/HomeArm.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectory.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetFingersPositionActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetTorqueControlModeResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StartResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetNullSpaceModeState.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/KinovaPose.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StopResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/Arm_KinovaPoseGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/HomeArmResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/RunCOMParametersEstimationRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/StopRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/AddPoseToCartesianTrajectoryResponse.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/SetForceControlParamsRequest.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmPoseActionGoal.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/FingerPosition.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesActionFeedback.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ClearTrajectories.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/include/kinova_msgs/ArmJointAnglesResult.h
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseAction.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointTorque.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseAction.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_FingerPosition.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocity.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_CartesianForce.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointAngles.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionActionGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_PoseVelocityWithFingers.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_KinovaPose.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesAction.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionAction.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_SetFingersPositionGoal.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_JointVelocity.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_Arm_KinovaPoseActionFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmJointAnglesFeedback.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/msg/_ArmPoseActionResult.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_Start.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_ClearTrajectories.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_ZeroTorques.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_RunCOMParametersEstimation.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetNullSpaceModeState.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlParameters.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetEndEffectorOffset.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetForceControlParams.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_SetTorqueControlMode.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/__init__.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_Stop.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_HomeArm.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/python3/dist-packages/kinova_msgs/srv/_AddPoseToCartesianTrajectory.py
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/lib/pkgconfig/kinova_msgs.pc
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/manifest.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointTorque.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointVelocity.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseAction.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionAction.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseActionGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/PoseVelocity.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesActionResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/JointAngles.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/KinovaPose.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/PoseVelocityWithFingers.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseAction.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesAction.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmJointAnglesGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/CartesianForce.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/FingerPosition.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseResult.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/ArmPoseGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetEndEffectorOffset.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetTorqueControlParameters.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/RunCOMParametersEstimation.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetNullSpaceModeState.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/HomeArm.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/ClearTrajectories.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetForceControlParams.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/Stop.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/SetTorqueControlMode.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/Start.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/roseus/ros/kinova_msgs/srv/ZeroTorques.l
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionAction.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseAction.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseAction.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/KinovaPose.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointVelocity.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/PoseVelocityWithFingers.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/CartesianForce.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/FingerPosition.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointAngles.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/PoseVelocity.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/JointTorque.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/SetFingersPositionActionResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmPoseActionResult.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesAction.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/Stop.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/HomeArm.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlMode.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/Start.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/RunCOMParametersEstimation.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetForceControlParams.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/ZeroTorques.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/_index.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetTorqueControlParameters.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetEndEffectorOffset.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/ClearTrajectories.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/gennodejs/ros/kinova_msgs/srv/SetNullSpaceModeState.js
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionAction.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseAction.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseAction.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesAction.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseActionResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionGoal.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmPoseFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/ArmJointAnglesActionFeedback.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/msg/SetFingersPositionResult.msg
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgs-msg-paths.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgsConfig.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgsConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/kinova_msgs/cmake/kinova_msgs-msg-extras.cmake
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/KinovaPose.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocityWithFingers.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/CartesianForce.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/PoseVelocity.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_CartesianForce.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointAngles.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/PoseVelocityWithFingers.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointAngles.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_FingerPosition.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointTorque.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_KinovaPose.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/FingerPosition.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointVelocity.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionActionFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/kinova_msgs-msg.asd
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_PoseVelocity.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmPoseFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_JointTorque.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesAction.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_Arm_KinovaPoseGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/JointVelocity.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmPoseActionGoal.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_SetFingersPositionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/Arm_KinovaPoseResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/SetFingersPositionActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/ArmJointAnglesActionResult.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/msg/_package_ArmJointAnglesFeedback.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_RunCOMParametersEstimation.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetForceControlParams.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/Stop.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlParameters.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetEndEffectorOffset.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_ZeroTorques.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/ClearTrajectories.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetNullSpaceModeState.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_ClearTrajectories.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_Start.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetForceControlParams.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_AddPoseToCartesianTrajectory.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetEndEffectorOffset.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/HomeArm.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlMode.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/Start.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_Stop.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetNullSpaceModeState.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/ZeroTorques.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_SetTorqueControlParameters.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/SetTorqueControlMode.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/_package_HomeArm.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/kinova_msgs-srv.asd
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/RunCOMParametersEstimation.lisp
+Already unlinked: {}
+Unlinking: /home/bryan/dissertation/summit_sim_git/devel/share/common-lisp/ros/kinova_msgs/srv/AddPoseToCartesianTrajectory.lisp
+Already unlinked: {}

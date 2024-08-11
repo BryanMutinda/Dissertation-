@@ -1,0 +1,5 @@
+kinova-ros/kinova_description
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_description/cmake.lock /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/./cmake.lock
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_description/lib/pkgconfig/kinova_description.pc /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/kinova_description.pc
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_description/share/kinova_description/cmake/kinova_descriptionConfig.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig.cmake
+/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_description/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/kinova_description/cmake/kinova_descriptionConfig-version.cmake

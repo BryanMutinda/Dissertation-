@@ -1,0 +1,8 @@
+<launch>
+	<!-- Summit XL simulation -->
+	<include file="$(find summit_xl_sim_bringup)/launch/summit_xl_complete.launch"/>
+	
+	<!-- Keyboard to control Summit XL -->
+	<node pkg="keyboard" type="keyboard_node.py" name="keyboard_node" output="screen" />
+
+</launch>

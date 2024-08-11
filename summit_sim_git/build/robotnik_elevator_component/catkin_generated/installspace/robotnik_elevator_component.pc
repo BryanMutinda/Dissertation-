@@ -1,0 +1,8 @@
+prefix=/home/bryan/dissertation/Dissertation-/summit_sim_git/install
+
+Name: robotnik_elevator_component
+Description: Description of robotnik_elevator_component
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrobotnik_elevator_component
+Requires: 

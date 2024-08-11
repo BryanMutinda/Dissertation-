@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/bryan/programs/opencv_new/install/lib/cmake/opencv4/include/opencv4 -I/home/bryan/programs/opencv_new/install/lib/cmake/opencv4/include/opencv4/opencv2/sfm -isystem /home/bryan/programs/opencv_new/install/include/opencv4 
+CXX_INCLUDES = -I/home/bryan/programs/opencv_new/install/lib/cmake/opencv4/include/opencv4 -isystem /home/bryan/programs/opencv_new/install/include/opencv4 
 

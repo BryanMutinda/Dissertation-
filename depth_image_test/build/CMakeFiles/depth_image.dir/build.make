@@ -215,7 +215,9 @@ depth_image: CMakeFiles/depth_image.dir/dataset.cpp.o
 depth_image: CMakeFiles/depth_image.dir/reprojection_error.cpp.o
 depth_image: CMakeFiles/depth_image.dir/build.make
 depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_highgui.so.4.10.0
+depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_stitching.so.4.10.0
 depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_sfm.so.4.10.0
+depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_viz.so.4.10.0
 depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_xfeatures2d.so.4.10.0
 depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_imgcodecs.so.4.10.0
 depth_image: /home/bryan/programs/opencv_new/install/lib/libopencv_calib3d.so.4.10.0

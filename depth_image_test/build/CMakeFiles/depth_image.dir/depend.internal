@@ -16,6 +16,9 @@ CMakeFiles/depth_image.dir/dataset.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -93,6 +96,23 @@ CMakeFiles/depth_image.dir/dataset.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/epipolar_geometry.cpp.o
@@ -110,6 +130,9 @@ CMakeFiles/depth_image.dir/epipolar_geometry.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -187,6 +210,23 @@ CMakeFiles/depth_image.dir/epipolar_geometry.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/feature_detect.cpp.o
@@ -204,6 +244,9 @@ CMakeFiles/depth_image.dir/feature_detect.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -281,6 +324,23 @@ CMakeFiles/depth_image.dir/feature_detect.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/feature_matching.cpp.o
@@ -298,6 +358,9 @@ CMakeFiles/depth_image.dir/feature_matching.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -375,6 +438,23 @@ CMakeFiles/depth_image.dir/feature_matching.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/functions_and_libs.cpp.o
@@ -392,6 +472,9 @@ CMakeFiles/depth_image.dir/functions_and_libs.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -469,6 +552,23 @@ CMakeFiles/depth_image.dir/functions_and_libs.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/image_conversion.cpp.o
@@ -486,6 +586,9 @@ CMakeFiles/depth_image.dir/image_conversion.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -563,6 +666,23 @@ CMakeFiles/depth_image.dir/image_conversion.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/main.cpp.o
@@ -580,6 +700,9 @@ CMakeFiles/depth_image.dir/main.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -657,6 +780,23 @@ CMakeFiles/depth_image.dir/main.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/reprojection_error.cpp.o
@@ -674,6 +814,9 @@ CMakeFiles/depth_image.dir/reprojection_error.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -751,6 +894,23 @@ CMakeFiles/depth_image.dir/reprojection_error.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/resection.cpp.o
@@ -768,6 +928,9 @@ CMakeFiles/depth_image.dir/resection.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -845,6 +1008,23 @@ CMakeFiles/depth_image.dir/resection.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 CMakeFiles/depth_image.dir/triangulation.cpp.o
@@ -862,6 +1042,9 @@ CMakeFiles/depth_image.dir/triangulation.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/base.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/bufferpool.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/check.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda.inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cuda_types.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cv_cpu_helper.h
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/core/cvdef.h
@@ -939,5 +1122,22 @@ CMakeFiles/depth_image.dir/triangulation.cpp.o
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/reconstruct.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/simple_pipeline.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/sfm/triangulation.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/blenders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/camera.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/matchers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/stitching/warpers.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/types.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/viz3d.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/vizcore.hpp
+ /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/viz/widgets.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d.hpp
  /home/bryan/programs/opencv_new/install/include/opencv4/opencv2/xfeatures2d/nonfree.hpp

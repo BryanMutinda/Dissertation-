@@ -1,0 +1,6 @@
+devel_space: /home/bryan/dissertation/Dissertation-/summit_sim_git/devel
+install: false
+install_space: /home/bryan/dissertation/Dissertation-/summit_sim_git/install
+profile: default
+source_space: /home/bryan/dissertation/Dissertation-/summit_sim_git/src
+workspace: /home/bryan/dissertation/Dissertation-/summit_sim_git

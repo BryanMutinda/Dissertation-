@@ -16,7 +16,7 @@ find_package(OpenCV REQUIRED)
 # Include the OpenCV headers
 include_directories(${OpenCV_INCLUDE_DIRS})
 include_directories(${OpenCV_DIR}/include/opencv4)
-include_directories(${OpenCV_DIR}/include/opencv4/opencv2/sfm)
+
 
 # Executables
 add_executable(${PROJECT_NAME} 
