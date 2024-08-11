@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/xarm_msgs/lib/python3/dist-packages/xarm_msgs/srv/_GripperMove.py

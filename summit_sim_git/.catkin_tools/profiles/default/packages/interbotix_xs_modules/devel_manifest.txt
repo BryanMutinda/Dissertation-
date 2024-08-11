@@ -1,6 +1,0 @@
-trossen/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_modules
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xs_modules/cmake.lock /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/./cmake.lock
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xs_modules/lib/python3/dist-packages/interbotix_xs_modules/__init__.py /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/python3/dist-packages/interbotix_xs_modules/__init__.py
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xs_modules/lib/pkgconfig/interbotix_xs_modules.pc /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/interbotix_xs_modules.pc
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xs_modules/share/interbotix_xs_modules/cmake/interbotix_xs_modulesConfig-version.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xs_modules/cmake/interbotix_xs_modulesConfig-version.cmake
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xs_modules/share/interbotix_xs_modules/cmake/interbotix_xs_modulesConfig.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/interbotix_xs_modules/cmake/interbotix_xs_modulesConfig.cmake

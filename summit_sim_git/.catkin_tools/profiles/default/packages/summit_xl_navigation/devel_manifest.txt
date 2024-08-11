@@ -1,5 +1,0 @@
-summit_xl_common/summit_xl_navigation
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/summit_xl_navigation/cmake.lock /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/./cmake.lock
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/summit_xl_navigation/lib/pkgconfig/summit_xl_navigation.pc /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/summit_xl_navigation.pc
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/summit_xl_navigation/share/summit_xl_navigation/cmake/summit_xl_navigationConfig.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/summit_xl_navigation/cmake/summit_xl_navigationConfig.cmake
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/summit_xl_navigation/share/summit_xl_navigation/cmake/summit_xl_navigationConfig-version.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/summit_xl_navigation/cmake/summit_xl_navigationConfig-version.cmake

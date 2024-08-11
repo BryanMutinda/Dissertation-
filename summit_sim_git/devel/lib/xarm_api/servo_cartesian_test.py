@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/xarm_api/lib/xarm_api/servo_cartesian_test.py

@@ -1,9 +1,0 @@
-[35m[1mScanning dependencies of target teleop_panel_autogen[0m
-[ 20%] [34m[1mAutomatic MOC for target teleop_panel[0m
-[ 20%] Built target teleop_panel_autogen
-[35m[1mScanning dependencies of target teleop_panel[0m
-[ 40%] [32mBuilding CXX object CMakeFiles/teleop_panel.dir/teleop_panel_autogen/mocs_compilation.cpp.o[0m
-[ 60%] [32mBuilding CXX object CMakeFiles/teleop_panel.dir/src/drive_widget.cpp.o[0m
-[ 80%] [32mBuilding CXX object CMakeFiles/teleop_panel.dir/src/teleop_panel.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/teleop_panel/lib/libteleop_panel.so[0m
-[100%] Built target teleop_panel

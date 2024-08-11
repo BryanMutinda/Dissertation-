@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_msgs/include/robotnik_msgs/get_digital_inputRequest.h

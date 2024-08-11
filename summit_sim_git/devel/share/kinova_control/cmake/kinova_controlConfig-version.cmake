@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_control/share/kinova_control/cmake/kinova_controlConfig-version.cmake

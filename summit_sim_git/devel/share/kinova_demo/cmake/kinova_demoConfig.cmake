@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig.cmake

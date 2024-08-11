@@ -1,7 +1,0 @@
-robotnik_pad/robotnik_pad_plugins
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_pad_plugins/cmake.lock /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/./cmake.lock
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_pad_plugins/lib/librobotnik_pad_plugins.so /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/librobotnik_pad_plugins.so
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_pad_plugins/lib/librobotnik_pad_pluginlib.so /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/librobotnik_pad_pluginlib.so
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_pad_plugins/lib/pkgconfig/robotnik_pad_plugins.pc /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/lib/pkgconfig/robotnik_pad_plugins.pc
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_pad_plugins/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig-version.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig-version.cmake
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_pad_plugins/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake /home/bryan/dissertation/Dissertation-/summit_sim_git/devel/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake

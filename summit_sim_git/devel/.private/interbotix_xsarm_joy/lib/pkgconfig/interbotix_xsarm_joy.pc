@@ -1,8 +1,0 @@
-prefix=/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xsarm_joy
-
-Name: interbotix_xsarm_joy
-Description: Description of interbotix_xsarm_joy
-Version: 0.0.0
-Cflags: -I/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xsarm_joy/include
-Libs: -L${prefix}/lib 
-Requires: interbotix_xsarm_control joy message_runtime roscpp rospy sensor_msgs std_msgs

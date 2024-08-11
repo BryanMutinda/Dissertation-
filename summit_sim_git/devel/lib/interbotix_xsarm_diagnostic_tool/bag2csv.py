@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/interbotix_xsarm_diagnostic_tool/lib/interbotix_xsarm_diagnostic_tool/bag2csv.py

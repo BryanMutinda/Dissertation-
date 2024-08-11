@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_elevator_interface_msgs/share/gennodejs/ros/robotnik_elevator_interface_msgs/srv/_index.js

@@ -1,8 +1,0 @@
-prefix=/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/summit_xl_j2n6s200_moveit_config
-
-Name: summit_xl_j2n6s200_moveit_config
-Description: Description of summit_xl_j2n6s200_moveit_config
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

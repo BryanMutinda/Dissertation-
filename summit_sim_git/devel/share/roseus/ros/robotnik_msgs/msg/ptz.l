@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_msgs/share/roseus/ros/robotnik_msgs/msg/ptz.l

@@ -1,8 +1,0 @@
-prefix=/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/robotnik_elevator_component
-
-Name: robotnik_elevator_component
-Description: Description of robotnik_elevator_component
-Version: 1.0.0
-Cflags: -I/home/bryan/dissertation/Dissertation-/summit_sim_git/src/robotnik_elevator_interface/robotnik_elevator_component/include
-Libs: -L${prefix}/lib -lrobotnik_elevator_component
-Requires: 

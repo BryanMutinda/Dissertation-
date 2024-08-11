@@ -1,1 +1,0 @@
-/home/bryan/dissertation/Dissertation-/summit_sim_git/devel/.private/costmap_prohibition_layer/share/gennodejs/ros/costmap_prohibition_layer/_index.js
